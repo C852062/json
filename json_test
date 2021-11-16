@@ -1,16 +1,16 @@
 {
   "list": [
     {
-      "name": "aaa",
-      "data": "2000"
+      "name":"aaa",
+      "data":"2000"
     },
     {
-      "name": "bbb",
-      "data": "2001"
+      "name":"bbb",
+      "data":"2001"
     },
    
     {
-      "name": "ccc",
+      "name":"ccc",
       "data":"2002"
     }
   ]
