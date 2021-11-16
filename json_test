@@ -1,15 +1,18 @@
 {
   "list": [
     {
+      "machine":"0",
       "name":"aaa",
       "data":"2000"
     },
     {
+      "machine":"1",
       "name":"bbb",
       "data":"2001"
     },
    
     {
+      "machine":"2",
       "name":"ccc",
       "data":"2002"
     }
